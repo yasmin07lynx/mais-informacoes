@@ -1,19 +1,19 @@
 header {
-    background-color: rgb(95, 173, 175);
+    background-color: rgb(49, 83, 32);
 
  }
  body{
-    background-color: hsl(163, 57%, 39%);
+    background-color: hsl(118, 58%, 36%);
     
  }
- h1 {color: rgb(83, 50, 199) ;
+ h1 {color: rgb(233, 236, 29) ;
  }
  ul{
-    color: rgb(133, 111, 214) ;
+    color: rgb(255, 255, 255) ;
  }
  h2{
-   color: rgb(83, 50, 199);
+   color: rgb(223, 236, 29);
  }
  P{
-   color: rgb(190, 154, 224);
+   color: rgb(255, 255, 255);
  }

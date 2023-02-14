@@ -3,15 +3,15 @@
    padding: 0;
 }
 header {
-    background-color:  hsl(118, 58%, 36%);;
+    background-color:  hsl(120, 37%, 22%);;
 
  }
- .2-tom{
-   background-color: green;
+ .tom{
+   background-color: rgb(130, 60%, 30%);
  }
  
  body{
-    background-color: rgb(49, 83, 32);
+    background-color: rgb(140, 75%, 32);
     
  }
  h1 {color: rgb(28, 82, 231) ;

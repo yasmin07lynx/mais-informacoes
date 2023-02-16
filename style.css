@@ -5,7 +5,9 @@
 header {
     background-color:  rgb(13, 129, 13);
     display: flex;
-    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
  }
  
  body{
@@ -22,8 +24,7 @@ header {
  }
 
  ul{
-  display: inline-block;
-  padding: 0 16px;
+  
 display: inline-block;
 margin: 0 16px;
  }

@@ -10,34 +10,33 @@ header {
     align-items: center;
  }
  
- 
  body{
     background-color: rgb(4, 75, 25);
     }
  
     h1 {color: rgb(28, 82, 231) ;
  }
- ul{
-   display: inline-block;
-   padding: 0 16px;
- }
+
  h2{
   text-align: center;
-   color: rgb(223, 236, 29);
+   color: rgb(94, 255, 0);
    font-size: 25px;
  }
 
-.escola{
-  color: rgb(43, 255, 0);
-  font-size: 10px;
+ ul{
+  display: inline-block;
+  padding: 0 16px;
 }
 
+.escola{
+  color:rgb(94, 255, 0);
+  font-size: 15px;
+}
 
 .estudante{
   color: rgb(238, 255, 2);
-font-size: 10px;
+font-size: 15px;
 }
-
 
  P{
    color: rgb(255, 255, 255);

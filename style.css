@@ -22,7 +22,9 @@ header {
    padding: 0 16px;
  }
  h2{
+  text-align: center;
    color: rgb(223, 236, 29);
+   font-size: 25px;
  }
  P{
    color: rgb(255, 255, 255);

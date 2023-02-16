@@ -26,6 +26,19 @@ header {
    color: rgb(223, 236, 29);
    font-size: 25px;
  }
+
+.escola{
+  color: rgb(43, 255, 0);
+  font-size: 10px;
+}
+
+
+.estudante{
+  color: rgb(238, 255, 2);
+font-size: 10px;
+}
+
+
  P{
    color: rgb(255, 255, 255);
  }

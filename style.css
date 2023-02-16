@@ -9,10 +9,10 @@ header {
  
  
  body{
-    background-color: rgb(140, 75%, 32);
-    
- }
- h1 {color: rgb(28, 82, 231) ;
+    background-color: rgb(82, 110, 19);
+    }
+ 
+    h1 {color: rgb(28, 82, 231) ;
  }
  ul{
    display: flex;

@@ -12,7 +12,7 @@ header {
  .lista-item{
   color:rgb(153, 255, 0);
   display:flex;
-  margin: 5px 16px;
+  margin: 10px 16px;
 }
 
 .escola{

@@ -10,13 +10,16 @@ header {
  }
  
  .lista-item{
-  color:rgb(153, 255, 0);
-  display:flex;
-  margin: 16px 16px;
+  display: flexbox;
+  margin: 0 16px;
 }
 
 .escola{
   color: yellow;
+}
+
+.estudante{
+  color: greenyellow ;
 }
  body{
     background-color: rgb(4, 75, 25);

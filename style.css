@@ -9,7 +9,7 @@ header {
     align-items: center;
  }
  
- li{
+ .lista-item{
   color:rgb(153, 255, 0);
   display: inline-block;
   margin: 0 16px;

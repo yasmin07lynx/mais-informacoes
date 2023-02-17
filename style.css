@@ -11,7 +11,7 @@ header {
  
  .lista-item{
   color:rgb(153, 255, 0);
-  display: inline-block;
+  display:inline-block;
   margin: 0 16px;
 }
 

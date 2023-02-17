@@ -9,9 +9,10 @@ header {
     align-items: center;
  }
  
- ul{
+ li{
+  color:rgb(153, 255, 0);
   display: inline-block;
-  
+  margin: 0 16px;
 }
 
 .escola{

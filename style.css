@@ -22,19 +22,18 @@ header {
    font-size: 25px;
  }
 
- ul{
-display: inline-block;
-margin: 0 16px;
- }
+ 
 
 .escola{
   color:rgb(94, 255, 0);
-  font-size: 15px;
+  display: inline-block;
+margin: 0 16px;
 }
 
 .estudante{
   color: rgb(238, 255, 2);
-font-size: 15px;
+  display: inline-block;
+  margin: 0 16px;
 }
 
  P{

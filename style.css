@@ -22,7 +22,7 @@ header {
   color: greenyellow ;
 }
  body{
-    background-color: rgb(4, 75, 25);
+    background-image: linear-gradient(to right, rgb(0, 87, 218), blue);
     }
  
     h1 {color: rgb(28, 82, 231) ;

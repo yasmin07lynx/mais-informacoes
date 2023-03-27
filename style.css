@@ -3,7 +3,7 @@
    padding: 0;
 }
 header {
-    background-color:  rgb(13, 129, 13);
+    background-image: linear-gradient(to right, rgb(5, 202, 94), rgb(0, 130, 153));
     display: flex;
     justify-content: space-around;
     align-items: center;

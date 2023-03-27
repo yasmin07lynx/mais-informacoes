@@ -7,6 +7,7 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    border: 1cm;
  }
  
  .lista-item{

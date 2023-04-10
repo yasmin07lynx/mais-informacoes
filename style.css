@@ -34,6 +34,7 @@ header {
  P{
    color: rgb(255, 255, 255);
    font-size: 25px;
+   font-family: 'Cookie', cursiva;
  }
  .site{
    color:rgb(255, 255, 255) ;
@@ -43,7 +44,7 @@ h2{
    color: rgb(166, 255, 0);
    font-size: 35px;
    border: 1px dashed black;
-   font-family: 'Sedgwick Ave Display', ;
+   
  }
 
 

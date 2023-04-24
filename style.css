@@ -10,6 +10,9 @@ header {
     font-family: 'Sedgwick Ave Display', cursive;
 
  }
+ .introdução{
+  padding: 6%;
+ }
  
  .lista-item{
   display: flexbox;
@@ -34,7 +37,7 @@ header {
  P{
    color: rgb(255, 255, 255);
    font-size: 25px;
-   font-family: 'Cookie', cursiva;
+
  }
  .site{
    color:rgb(255, 255, 255) ;
@@ -43,8 +46,10 @@ h2{
   text-align: center;
    color: rgb(166, 255, 0);
    font-size: 35px;
-   border: 1px dashed black;
-   
+   border: 5px double black;
+   font-family: 'Tilt Prism', cursive;
+   font-family: 'Festive', cursive;
+font-family: 'Tilt Prism', cursive;
  }
 
 

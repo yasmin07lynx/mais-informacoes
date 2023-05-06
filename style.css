@@ -2,7 +2,7 @@
    margin: 0;
    padding: 0;
 }
-header {
+.cabecalho{
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -17,42 +17,65 @@ header {
  .lista-item{
   display: flexbox;
   margin: 0 16px;
+  color:rgb(159 159 159);
 }
 
-.escola{
-  color: yellow;
-}
 
-.estudante{
-  color: rgb(9, 102, 9) ;
-}
- body{
-    background-image: linear-gradient(rgb(33, 228, 121), rgb(0, 110, 255));
+ .corpo-site{
+    background-image: linear-gradient(rgb(167, 8, 8), rgb(255 118 101));
     }
  
-    h1 {color: rgb(28, 82, 231);
+.titulo-1 {color: rgb(172 172 172);
       font-size: 40px
  }
  
- P{
-   color: rgb(255, 255, 255);
+ .paragrafo{
+   color: rgb(0, 0, 0);
    font-size: 25px;
 
  }
  .site{
    color:rgb(255, 255, 255) ;
 }
-h2{
+.titulo-2{
   text-align: center;
-   color: rgb(166, 255, 0);
+   color: rgb(255, 255, 255);
    font-size: 35px;
    border: 5px double black;
    font-family: 'Tilt Prism', cursive;
    font-family: 'Festive', cursive;
 font-family: 'Tilt Prism', cursive;
  }
-
-
-
+ .imagem-sangue{
+  width: 50%
+ }
+ .titulo-3{
+  text-align: center;
+   color: rgb(255, 255, 255);
+   font-size: 35px;
+   border: 5px double black;
+   font-family: 'Tilt Prism', cursive;
+   font-family: 'Festive', cursive;
+font-family: 'Tilt Prism', cursive;
+ }
+.titulo-4{
+  text-align: center;
+   color: rgb(255, 255, 255);
+   font-size: 35px;
+   border: 5px double black;
+   font-family: 'Tilt Prism', cursive;
+   font-family: 'Festive', cursive;
+font-family: 'Tilt Prism', cursive;
+}
+.todos-hemogramas{
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20%;
+}
+.hemograma-imagem{
+  width: 5cm;
+}
+.icone{
+  width: 2%;
+}
  
  

@@ -27,8 +27,8 @@
 
  }
  .corpo{
-  background-image: linear-gradient (rgb(167, 8, 8), rgb(255 118 101));
-   }
+  background-color: red;
+ }
 
  .titulo{ 
   text-align: center;

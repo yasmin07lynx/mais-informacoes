@@ -1,81 +1,46 @@
 *{
-   margin: 0;
-   padding: 0;
+  margin: 0;
+  padding: 0;
 }
-.cabecalho{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    border: 5px dashed;
-    font-family: 'Sedgwick Ave Display', cursive;
+
+
+ .cabecalho{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 5px dashed;
+ }
+
+ .titulo-1{
+  color: rgb(172 172 172);
+  font-size: 40px
 
  }
- .introdução{
-  padding: 6%;
- }
  
- .lista-item{
+ .lista-item{ 
   display: flexbox;
   margin: 0 16px;
   color:rgb(159 159 159);
-}
-
-
- .corpo-site{
-    background-image: linear-gradient(rgb(167, 8, 8), rgb(255 118 101));
-    }
- 
-.titulo-1 {color: rgb(172 172 172);
-      font-size: 40px
  }
- 
- .paragrafo{
-   color: rgb(0, 0, 0);
-   font-size: 25px;
+
+ .item-lista{
 
  }
- .site{
-   color:rgb(255, 255, 255) ;
-}
-.titulo-2{
+ .corpo{
+  background-image: linear-gradient (rgb(167, 8, 8), rgb(255 118 101));
+   }
+
+ .titulo{ 
   text-align: center;
-   color: rgb(255, 255, 255);
-   font-size: 35px;
-   border: 5px double black;
-   font-family: 'Tilt Prism', cursive;
-   font-family: 'Festive', cursive;
-font-family: 'Tilt Prism', cursive;
+  color: rgb(255, 255, 255);
+  font-size: 35px;
+  border: 5px double black;
  }
- .imagem-sangue{
-  width: 50%
+
+ .lista-doar{
+
  }
- .titulo-3{
-  text-align: center;
-   color: rgb(255, 255, 255);
-   font-size: 35px;
-   border: 5px double black;
-   font-family: 'Tilt Prism', cursive;
-   font-family: 'Festive', cursive;
-font-family: 'Tilt Prism', cursive;
+
+ .item-doar{
+
  }
-.titulo-4{
-  text-align: center;
-   color: rgb(255, 255, 255);
-   font-size: 35px;
-   border: 5px double black;
-   font-family: 'Tilt Prism', cursive;
-   font-family: 'Festive', cursive;
-font-family: 'Tilt Prism', cursive;
-}
-.todos-hemogramas{
-  display: grid;
-  grid-template-columns: 20% 20% 20% 20%;
-}
-.hemograma-imagem{
-  width: 5cm;
-}
-.icone{
-  width: 2%;
-}
- 
- 

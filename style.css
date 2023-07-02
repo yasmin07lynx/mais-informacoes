@@ -28,6 +28,7 @@
 }
  
  .lista-item{ 
+  font-size: 30px;
   display: flexbox;
   margin: 0 16px;
   color:rgb(159 159 159);

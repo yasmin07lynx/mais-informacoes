@@ -10,7 +10,7 @@
   align-items: center;
   border: 5px dashed;
  }
- 
+
  .corpo-site{
   background-image: linear-gradient(rgb(167, 8, 8), rgb(255 118 101));
   }
@@ -20,6 +20,12 @@
   font-size: 40px
 
  }
+ .paragrafo{
+  font-size: 10px;
+  color: black;
+  align-items: center;
+
+}
  
  .lista-item{ 
   display: flexbox;
